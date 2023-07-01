@@ -3,8 +3,8 @@ Step-by-step guide on deploying any machine learning model to the Azure platform
 
 [Link Here]()
 
-<p align ="center"><img src="./Images/">
+<p align ="center"><img src="./Images/application-ui.png">
 
 ## Example
-<p align ="center"><img src="./Images/">
+<p align ="center"><img src="./Images/application-demo.png">
 
