@@ -7,4 +7,3 @@ Step-by-step guide on deploying any machine learning model to the Azure platform
 
 ## Example
 <p align ="center"><img src="./Images/application-demo.png">
-
